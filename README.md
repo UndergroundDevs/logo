@@ -1,5 +1,9 @@
 # Logo of Underground Devs
+<<<<<<< HEAD
 ![](wallpaper_16x9.jpg)
+=======
+![](logo_16x9.jpg)
+>>>>>>> master
 Appearence is all!! Even for underground developers, 'cuz we are reaching your depths!
 
 ## Getting Started
