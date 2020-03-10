@@ -1,5 +1,5 @@
 # Logo of Underground Devs
-![](logo.jpg)
+![](wallpaper_16x9.jpg)
 Appearence is all!! Even for underground developers, 'cuz we are reaching your depths!
 
 ## Getting Started
